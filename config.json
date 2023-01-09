@@ -1,0 +1,26 @@
+{
+  "production": {
+    "dbCredentials": {
+      "host": "vn-db-prod.versatile.ai",
+      "user": "cts",
+      "password": "gE@@y0H9NGDse3e0",
+      "database": "vn"
+    },
+    "cts": {
+      "url": "https://tagging-service.versatile.ai",
+      "token": "uh6nv51ovmdjxjry0naluqlmgogfoi02"
+    }
+  },
+  "staging": {
+    "dbCredentials": {
+      "host": "mysql.internal.stg.versatile.ai",
+      "user": "vndbroot",
+      "password": "AkuoKfo321!staging",
+      "database": "vn"
+    },
+    "cts": {
+      "url": "https://cycle-tagging-api.stg.versatile.ai",
+      "token": "eqey0epwvsav8qp77ul3wgsypdoef99d"
+    }
+  }
+}

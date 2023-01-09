@@ -1,0 +1,31 @@
+{
+  "PROCESS_IDS_TO_CHECK" : [
+    "Loading:1#3",
+    "Floor Organization:6#3",
+    "Unknown:21#3",
+     "Accessory Change:84#3",
+     "Assembly:90#3",
+     "Scheduled Shift Break:14#4",
+     "Off-Shift:16#4",
+     "Truck Unloading:8#5"
+  ],
+  "LOAD_TYPE_ID_TO_CHECK": [
+     "Lifting Basket:1#73",
+     "Bomb Shelter Window:10#21",
+     "Concrete Mix:5#3",
+     "Straight Rebar:15#9",
+     "Wall Formworks:24#13",
+     "Wood Beam:33#13",
+     "Slab Formwork:41#13",
+     "Steel Beam:63#25",
+     "Concrete Finisher:89#72",
+     "Portable Toilet:102#72",
+     "Lifting Sling:104#1",
+     "Window Frame:247#87",
+     "No Object:255#18",
+     "Aggregate Pump:304#72",
+     "Drywall Frame:310#79",
+     "Precast Slab:325#20"
+  ]
+}
+
